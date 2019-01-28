@@ -51,7 +51,7 @@ Python 3, UCSMSDK, DevNet Intersight Sandbox
 
 ## Usage
 
-If people like your project, they will want to use it.  Show them how.
+Simply install the UCSM SDK and then execute: python ucsmsdk4osia.py
 
 ## Installation
 
